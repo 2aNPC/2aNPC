@@ -1,6 +1,6 @@
 ### Bem vindos ao meu perfil🤠
 
-Meu nome é Maria Nilda
+Meu nome é **Maria Nilda**
 
 - Estou fazendo o curso do [Alura](https://www.alura.com.br);
 - Estou aprendendo a mexer no computador;
